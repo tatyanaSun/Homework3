@@ -1,0 +1,14 @@
+
+
+
+/* Header*/
+.header{
+    margin: 50px 50px 40px 50px;
+    background-color: #ffffff;
+}
+
+.header p{
+    padding-bottom: 30px;
+    font: bold 40px/30px open-sans sans-serif;
+    color: #333333;
+}
